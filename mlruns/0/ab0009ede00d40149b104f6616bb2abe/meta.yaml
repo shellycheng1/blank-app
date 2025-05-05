@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/ab0009ede00d40149b104f6616bb2abe/artifacts
+end_time: 1745850338072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab0009ede00d40149b104f6616bb2abe
+run_name: loud-zebra-129
+run_uuid: ab0009ede00d40149b104f6616bb2abe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850333127
+status: 3
+tags: []
+user_id: vscode

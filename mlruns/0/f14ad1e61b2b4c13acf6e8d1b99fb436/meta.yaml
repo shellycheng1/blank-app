@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/f14ad1e61b2b4c13acf6e8d1b99fb436/artifacts
+end_time: 1745849268316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f14ad1e61b2b4c13acf6e8d1b99fb436
+run_name: dazzling-fox-540
+run_uuid: f14ad1e61b2b4c13acf6e8d1b99fb436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849265073
+status: 3
+tags: []
+user_id: vscode

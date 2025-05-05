@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/8f389d7da2c242189def45d9db71049e/artifacts
+end_time: 1746446694215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f389d7da2c242189def45d9db71049e
+run_name: nosy-shoat-15
+run_uuid: 8f389d7da2c242189def45d9db71049e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746446691040
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/9e767c559b0f4ceba5af8fec2dfd1890/artifacts
+end_time: 1746445491167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e767c559b0f4ceba5af8fec2dfd1890
+run_name: bouncy-dove-43
+run_uuid: 9e767c559b0f4ceba5af8fec2dfd1890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746445474446
+status: 4
+tags: []
+user_id: vscode

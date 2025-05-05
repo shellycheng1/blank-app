@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/599ece4c8dfd4cd1a4ae2ac2ed54252b/artifacts
+end_time: 1745850140563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 599ece4c8dfd4cd1a4ae2ac2ed54252b
+run_name: luxuriant-bird-571
+run_uuid: 599ece4c8dfd4cd1a4ae2ac2ed54252b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850137161
+status: 3
+tags: []
+user_id: vscode

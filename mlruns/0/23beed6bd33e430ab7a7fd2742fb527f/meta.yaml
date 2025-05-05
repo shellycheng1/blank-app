@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/23beed6bd33e430ab7a7fd2742fb527f/artifacts
+end_time: 1745849208438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23beed6bd33e430ab7a7fd2742fb527f
+run_name: delightful-elk-566
+run_uuid: 23beed6bd33e430ab7a7fd2742fb527f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849203307
+status: 3
+tags: []
+user_id: vscode

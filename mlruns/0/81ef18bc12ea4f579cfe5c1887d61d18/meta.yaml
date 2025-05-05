@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/81ef18bc12ea4f579cfe5c1887d61d18/artifacts
+end_time: 1745921412837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81ef18bc12ea4f579cfe5c1887d61d18
+run_name: luxuriant-asp-854
+run_uuid: 81ef18bc12ea4f579cfe5c1887d61d18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745921409395
+status: 3
+tags: []
+user_id: vscode

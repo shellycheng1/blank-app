@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/331f79b78c4d469ab6bc9e46b24f88b1/artifacts
+end_time: 1746445380255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 331f79b78c4d469ab6bc9e46b24f88b1
+run_name: casual-shrew-361
+run_uuid: 331f79b78c4d469ab6bc9e46b24f88b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746445376357
+status: 3
+tags: []
+user_id: vscode

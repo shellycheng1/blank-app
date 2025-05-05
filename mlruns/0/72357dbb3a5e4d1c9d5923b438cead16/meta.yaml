@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/72357dbb3a5e4d1c9d5923b438cead16/artifacts
+end_time: 1745852846511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72357dbb3a5e4d1c9d5923b438cead16
+run_name: brawny-squid-969
+run_uuid: 72357dbb3a5e4d1c9d5923b438cead16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745852843528
+status: 3
+tags: []
+user_id: vscode

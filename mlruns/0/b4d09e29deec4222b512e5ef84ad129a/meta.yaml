@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/b4d09e29deec4222b512e5ef84ad129a/artifacts
+end_time: 1745853509811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4d09e29deec4222b512e5ef84ad129a
+run_name: rumbling-mouse-540
+run_uuid: b4d09e29deec4222b512e5ef84ad129a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745853506860
+status: 4
+tags: []
+user_id: vscode

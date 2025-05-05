@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/41b74ef315a347088c17f6c51ba6889e/artifacts
+end_time: 1745850125878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41b74ef315a347088c17f6c51ba6889e
+run_name: crawling-wren-400
+run_uuid: 41b74ef315a347088c17f6c51ba6889e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850120861
+status: 4
+tags: []
+user_id: vscode

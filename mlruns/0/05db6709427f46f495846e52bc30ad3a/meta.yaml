@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/05db6709427f46f495846e52bc30ad3a/artifacts
+end_time: 1745849350283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05db6709427f46f495846e52bc30ad3a
+run_name: judicious-ray-575
+run_uuid: 05db6709427f46f495846e52bc30ad3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849347231
+status: 4
+tags: []
+user_id: vscode

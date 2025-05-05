@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/6de63ff1046646c6a33bcd6b1b8de54b/artifacts
+end_time: 1745849292740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6de63ff1046646c6a33bcd6b1b8de54b
+run_name: efficient-kite-712
+run_uuid: 6de63ff1046646c6a33bcd6b1b8de54b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849289366
+status: 3
+tags: []
+user_id: vscode

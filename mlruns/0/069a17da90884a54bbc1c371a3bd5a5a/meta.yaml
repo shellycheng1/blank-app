@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/069a17da90884a54bbc1c371a3bd5a5a/artifacts
+end_time: 1745849688092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 069a17da90884a54bbc1c371a3bd5a5a
+run_name: chill-shad-126
+run_uuid: 069a17da90884a54bbc1c371a3bd5a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849685170
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/4cbd48feaf794d319142b7671779f5cd/artifacts
+end_time: 1745921424250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cbd48feaf794d319142b7671779f5cd
+run_name: mysterious-wolf-231
+run_uuid: 4cbd48feaf794d319142b7671779f5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745921420636
+status: 4
+tags: []
+user_id: vscode

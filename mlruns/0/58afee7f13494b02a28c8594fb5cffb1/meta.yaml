@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/58afee7f13494b02a28c8594fb5cffb1/artifacts
+end_time: 1745852536042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58afee7f13494b02a28c8594fb5cffb1
+run_name: languid-koi-475
+run_uuid: 58afee7f13494b02a28c8594fb5cffb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745852533164
+status: 3
+tags: []
+user_id: vscode

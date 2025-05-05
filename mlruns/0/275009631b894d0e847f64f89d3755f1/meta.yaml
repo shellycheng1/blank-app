@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/275009631b894d0e847f64f89d3755f1/artifacts
+end_time: 1746446625346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 275009631b894d0e847f64f89d3755f1
+run_name: bright-gnu-955
+run_uuid: 275009631b894d0e847f64f89d3755f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746446622147
+status: 4
+tags: []
+user_id: vscode

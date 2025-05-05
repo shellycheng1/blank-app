@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/42a13694bb424b6e94eef6fe9229db82/artifacts
+end_time: 1745848954945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42a13694bb424b6e94eef6fe9229db82
+run_name: bedecked-stag-992
+run_uuid: 42a13694bb424b6e94eef6fe9229db82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745848951586
+status: 3
+tags: []
+user_id: vscode

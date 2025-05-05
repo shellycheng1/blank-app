@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/d51a6a21ee7b45619172193c58a832ad/artifacts
+end_time: 1746449056908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d51a6a21ee7b45619172193c58a832ad
+run_name: capable-bat-198
+run_uuid: d51a6a21ee7b45619172193c58a832ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746449053904
+status: 3
+tags: []
+user_id: vscode

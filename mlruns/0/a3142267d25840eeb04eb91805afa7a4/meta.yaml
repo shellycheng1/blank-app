@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/a3142267d25840eeb04eb91805afa7a4/artifacts
+end_time: 1745852383852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3142267d25840eeb04eb91805afa7a4
+run_name: charming-skink-746
+run_uuid: a3142267d25840eeb04eb91805afa7a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745852380904
+status: 3
+tags: []
+user_id: vscode

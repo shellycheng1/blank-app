@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/495b170e7a64405997f20a923a643e29/artifacts
+end_time: 1745850324101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 495b170e7a64405997f20a923a643e29
+run_name: luxuriant-snipe-994
+run_uuid: 495b170e7a64405997f20a923a643e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850321187
+status: 3
+tags: []
+user_id: vscode

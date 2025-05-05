@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/f3ee7e0ae205422387c01624ed940f71/artifacts
+end_time: 1745848948810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3ee7e0ae205422387c01624ed940f71
+run_name: languid-shrike-631
+run_uuid: f3ee7e0ae205422387c01624ed940f71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745848945501
+status: 3
+tags: []
+user_id: vscode

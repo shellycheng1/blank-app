@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/bb7e4401fc2c4d92ac33a74abb6a63bb/artifacts
+end_time: 1746446619364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb7e4401fc2c4d92ac33a74abb6a63bb
+run_name: dashing-robin-140
+run_uuid: bb7e4401fc2c4d92ac33a74abb6a63bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746446616189
+status: 3
+tags: []
+user_id: vscode

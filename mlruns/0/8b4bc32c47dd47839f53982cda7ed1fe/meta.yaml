@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/8b4bc32c47dd47839f53982cda7ed1fe/artifacts
+end_time: 1745849370926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b4bc32c47dd47839f53982cda7ed1fe
+run_name: beautiful-kite-51
+run_uuid: 8b4bc32c47dd47839f53982cda7ed1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849368048
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/3abd98b92787457282ab43658de037e7/artifacts
+end_time: 1745849286995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3abd98b92787457282ab43658de037e7
+run_name: melodic-bat-754
+run_uuid: 3abd98b92787457282ab43658de037e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849283621
+status: 3
+tags: []
+user_id: vscode

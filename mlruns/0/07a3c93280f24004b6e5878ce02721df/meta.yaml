@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/07a3c93280f24004b6e5878ce02721df/artifacts
+end_time: 1745849333250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07a3c93280f24004b6e5878ce02721df
+run_name: peaceful-slug-208
+run_uuid: 07a3c93280f24004b6e5878ce02721df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849326936
+status: 3
+tags: []
+user_id: vscode

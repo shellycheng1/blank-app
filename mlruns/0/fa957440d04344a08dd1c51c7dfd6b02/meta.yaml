@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/fa957440d04344a08dd1c51c7dfd6b02/artifacts
+end_time: 1745848943108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa957440d04344a08dd1c51c7dfd6b02
+run_name: blushing-donkey-92
+run_uuid: fa957440d04344a08dd1c51c7dfd6b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745848940103
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/3383c4761810440c9a92ad37222a6e86/artifacts
+end_time: 1745850664335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3383c4761810440c9a92ad37222a6e86
+run_name: judicious-ape-139
+run_uuid: 3383c4761810440c9a92ad37222a6e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850661209
+status: 3
+tags: []
+user_id: vscode

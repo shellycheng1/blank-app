@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/b46893a70b3b491082132c1a6d471d91/artifacts
+end_time: 1746446676694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b46893a70b3b491082132c1a6d471d91
+run_name: merciful-finch-758
+run_uuid: b46893a70b3b491082132c1a6d471d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746446673400
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/254f0463367145a2ac4e79774d86ebee/artifacts
+end_time: 1745921425977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 254f0463367145a2ac4e79774d86ebee
+run_name: serious-penguin-833
+run_uuid: 254f0463367145a2ac4e79774d86ebee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745921422451
+status: 4
+tags: []
+user_id: vscode

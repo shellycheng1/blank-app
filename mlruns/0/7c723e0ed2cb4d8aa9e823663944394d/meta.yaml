@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/7c723e0ed2cb4d8aa9e823663944394d/artifacts
+end_time: 1746445505957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c723e0ed2cb4d8aa9e823663944394d
+run_name: luminous-midge-568
+run_uuid: 7c723e0ed2cb4d8aa9e823663944394d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746445488472
+status: 3
+tags: []
+user_id: vscode

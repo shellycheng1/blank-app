@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/33894621a30c4b3ea2f6a5ad1e6a8dd0/artifacts
+end_time: 1746445179665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33894621a30c4b3ea2f6a5ad1e6a8dd0
+run_name: respected-moose-117
+run_uuid: 33894621a30c4b3ea2f6a5ad1e6a8dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746445176863
+status: 4
+tags: []
+user_id: vscode

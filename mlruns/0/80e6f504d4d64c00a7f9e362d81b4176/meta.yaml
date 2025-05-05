@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/80e6f504d4d64c00a7f9e362d81b4176/artifacts
+end_time: 1745848963460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80e6f504d4d64c00a7f9e362d81b4176
+run_name: trusting-bear-312
+run_uuid: 80e6f504d4d64c00a7f9e362d81b4176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745848960201
+status: 3
+tags: []
+user_id: vscode

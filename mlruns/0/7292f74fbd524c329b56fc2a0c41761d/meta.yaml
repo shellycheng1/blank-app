@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/7292f74fbd524c329b56fc2a0c41761d/artifacts
+end_time: 1745920658844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7292f74fbd524c329b56fc2a0c41761d
+run_name: kindly-dolphin-660
+run_uuid: 7292f74fbd524c329b56fc2a0c41761d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745920640245
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/blank-app/mlruns/0/c0bd42fcab65421785db1d4018557558/artifacts
+end_time: 1745849378869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0bd42fcab65421785db1d4018557558
+run_name: bemused-ray-873
+run_uuid: c0bd42fcab65421785db1d4018557558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849375585
+status: 3
+tags: []
+user_id: vscode
